@@ -2,7 +2,7 @@
 # Olá, eu sou o Vitor Tamais
 
 ## Sobre mim:
-Meu nome é Vitor Tamais, tenho 18 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul. Aqui no meu GitHub, você irá encontrar alguns de meus projetos!!
+Meu nome é Vitor Tamais, tenho 19 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul. Aqui no meu GitHub, você irá encontrar alguns de meus projetos!!
 
 ## Conexões:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorfischer/)              
