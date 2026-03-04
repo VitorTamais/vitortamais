@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <strong>Vitor Fischer</strong> and I'm a <strong>Full Stack Developer</strong> from São Bernardo do Campo - SP.</p>
+<p align="left">My name is <strong>Vitor Fischer</strong> and I'm a <strong>Student of Systems Analysis and Development</strong> from São Bernardo do Campo - SP.</p>
 
 ###
 
